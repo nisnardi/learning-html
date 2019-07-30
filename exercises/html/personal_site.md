@@ -32,6 +32,7 @@
 * Create at least 2 content tables (please use all table section body, head and foot)
 * Create a favicon using an [online site](http://www.favicon-generator.org)
 * Add your favicon to your html documents 
+* Deploy the site using Netlify like you did on your first site
 
 ## If you got everything on this list you're rocking it!!! congratulations!!!
 
